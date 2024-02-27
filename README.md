@@ -1,4 +1,4 @@
-# Codesoft Internship - TASK 2 : CREDIT CARD FRAUD DETECTION
+# Codesoft Internship 
 
 
 
